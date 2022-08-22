@@ -6,7 +6,12 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/sir-freez-e/CarlTheWalkingRobot_copy.git:CarlTheWalkingRobot_copy.xml": [
+      "https://github.com/sir-freez-e/CarlTheWalkingRobot_copy.git",
+      "CarlTheWalkingRobot_copy.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
