@@ -1,31 +1,25 @@
 {
-  "workspace": {
-    "https://github.com/sir-freez-e/CarlTheWalkingRobot_copy.git": [
-      "https://github.com/sir-freez-e/CarlTheWalkingRobot_copy.git",
-      "1661185629400"
-    ],
-    "https://github.com/sir-freez-e/nan.git": [
-      "sir-freez-e/nan",
-      "1661185702351"
-    ]
-  },
+  "workspace": {},
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://github.com/sir-freez-e/CarlTheWalkingRobot_copy.git:CarlTheWalkingRobot_copy.xml": [
-      "https://github.com/sir-freez-e/CarlTheWalkingRobot_copy.git",
-      "CarlTheWalkingRobot_copy.xml"
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "X-Box",
+      "Dragon"
     ],
-    "https://github.com/sir-freez-e/nan.git:nan.groovy": [
-      "https://github.com/sir-freez-e/nan.git",
-      "nan.groovy"
-    ]
+    "linkDeviceName": "dyio",
+    "robotName": "CarlTheWalkingRobot",
+    "robotGitFile": "CarlTheRobot.xml",
+    "robotGit": "https://github.com/madhephaestus/carl-the-hexapod.git"
   },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
-    "skinBranch": "0.25.2",
+    "fontsize": 12,
+    "skinBranch": "1.63.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
